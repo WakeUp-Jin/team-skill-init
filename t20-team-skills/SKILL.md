@@ -1,5 +1,5 @@
 ---
-name: 团队开发规范
+name: t20-team-skills
 description: 团队全栈 TypeScript 项目开发规范。当需要以下操作时使用：(1) 编写 React 组件或前端功能，(2) 开发 Koa 后端 API，(3) 设计 RESTful 接口，(4) 编写 Prisma 数据库查询，(5) 实现权限模块，(6) 创建 Git 提交或 PR，(7) 审查代码是否符合团队规范。
 ---
 
