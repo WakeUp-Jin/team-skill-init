@@ -4,7 +4,7 @@
 
 ## 📦 包含的 Skills
 
-### team-standards - 团队开发规范
+### t20-team-standards - 团队开发规范
 
 团队全栈 TypeScript 项目开发规范，涵盖前端、后端、API、数据库等全方位开发标准。
 
@@ -31,7 +31,7 @@
 ### 安装特定 Skill
 
 ```bash
-npx skills add https://github.com/你的用户名/team-skill --skill team-standards
+npx skills add https://github.com/你的用户名/team-skill --skill t20-team-standards
 ```
 
 ### 安装所有 Skills
@@ -45,14 +45,14 @@ npx skills add https://github.com/你的用户名/team-skill
 安装后，在 Claude Code 中：
 
 1. **自动触发**：当你进行相关开发任务时，Claude 会自动参考团队规范
-2. **手动调用**：输入 `/team-standards` 查看规范内容
+2. **手动调用**：输入 `/t20-team-standards` 查看规范内容
 3. **代码审查**：要求 Claude "按团队规范审查这段代码"
 
 ## 📚 Skill 详情
 
-### team-standards
+### t20-team-standards
 
-详细文档请查看：[team-standards/SKILL.md](team-standards/SKILL.md)
+详细文档请查看：[t20-team-standards/SKILL.md](t20-team-standards/SKILL.md)
 
 **快速决策树：**
 
@@ -73,8 +73,8 @@ Hooks → 事件处理 → 渲染（顺序固定）
 
 ### 如何添加新规范
 
-1. 在 `team-standards/references/` 目录下创建新的 `.md` 文件
-2. 更新 `team-standards/SKILL.md` 添加索引链接
+1. 在 `t20-team-standards/references/` 目录下创建新的 `.md` 文件
+2. 更新 `t20-team-standards/SKILL.md` 添加索引链接
 3. 提交更改并推送到仓库
 
 ### 如何添加新 Skill
