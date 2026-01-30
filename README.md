@@ -1,6 +1,6 @@
 # Team Skills
 
-团队共享的 Claude Code Skills 仓库，用于统一开发规范和最佳实践。
+团队共享的 Claude Code Skills 仓库，用于统一开发规范和最佳实践
 
 ## 📦 包含的 Skills
 
